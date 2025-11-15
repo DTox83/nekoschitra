@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<!--<setting id="prem" type="text" label="Premium update Url" default=""/>-->
+	<setting id="build" type="text" label="Build Url" default="https://bit.ly/buildmichaz"/>
+	<!--<category label="SERVICE">
+		<setting id="service" label="Service" type="bool" default="true" />
+		<setting id="service.startup" label="Update on Login" type="bool" default="false" visible="eq(-1,true)"/>
+		<setting id="service.type" label="Service Schedule Type" type="enum" default="1" visible="eq(-2,true)" values="Aus|Intervall|Uhrzeit" />
+		<setting id="service.interval" label="Interval" type="number" default="4"/>
+		<setting id="service.time" type="time" label="Service Time" default="05:00" visible="eq(-4,true)+eq(-2,2)"/>
+		<setting label="PVR AKTUALISIEREN" type="action" action="RunPlugin(plugin://plugin.video.tools/setup)"/>
+		<setting id="aktuell" type="text"  label="Addon STATUS" enable="false"/>
+		<setting id="last.update" type="text"  label="last.update" enable="false" default="0" visible="false"/>
+	</category>
+	<category label="DATEN">
+		<setting id="prem18" type="text" label="Premium update Url Kodi 18" default="https://www.dropbox.com/s/dkanq3n5nmv11et/userdata18.zip?dl=1"/>
+		<setting id="prem19" type="text" label="Premium update Url Kodi 19" default="https://www.dropbox.com/s/9mfsxyrdiai4wcc/userdata19.zip?dl=1"/>
+		<setting id="kodi1832" type="text" label="Build Url Kodi 18-32bit" default="https://www.dropbox.com/s/arztj7lo1blcho0/kodi1832.zip?dl=1"/>
+		<setting id="kodi1864" type="text" label="Build Url Kodi 18-64bit" default="https://www.dropbox.com/s/yzyedzvu7nezuym/kodi1864.zip?dl=1"/>
+		<setting id="kodi1932" type="text" label="Build Url Kodi 19-32bit" default="https://www.dropbox.com/s/s50m0o1uitj5ezc/kodi1932.zip?dl=1"/>
+		<setting id="kodi1964" type="text" label="Build Url Kodi 19-64bit" default="https://www.dropbox.com/s/nqwlru3l6gwgwm7/kodi1964.zip?dl=1"/>
+		<setting id="prem" type="text" label="Premium update Url" default="https://www.dropbox.com/s/48ensf95thbfkld/userdata.zip?dl=1"/>
+		<setting id="kodi18" type="text" label="Build Url Kodi 18" default="https://www.dropbox.com/s/arztj7lo1blcho0/kodi18.zip?dl=1"/>
+		<setting id="kodi19" type="text" label="Build Url Kodi 19" default="https://www.dropbox.com/s/l0wfsvbdd8d1ta0/kodi19.zip?dl=1"/>
+		<setting id="choose_source" type="enum" values="M3U URL|M3U PFAD|WAIPU-LISTE|VAVOO-LISTE|JOYN-LISTE" label="Quelle" default="4"/>
+		<setting id="m3uUrl" type="text" label="M3U URL" default="" visible="eq(-1,0)"/>
+		<setting id="m3uPath" type="file" source="files" label="M3U PFAD" default="" visible="eq(-2,1)"/>
+		<setting type="sep"/>
+		<setting label="XMLTV URLS" type="lsep"/>
+		<setting id="epg1" type="text"  label="EPG Adresse 1" default="http://ricxepg.nl/epg_data/rytecDE_Basic.gz"/>
+		<setting id="epg2" type="text"  label="EPG Adresse 2" default="http://ricxepg.nl/epg_data/rytecAT_Basic.gz" visible="!eq(-1,)"/>
+		<setting id="epg3" type="text"  label="EPG Adresse 3" default="http://ricxepg.nl/epg_data/rytecDE_Common.gz" visible="!eq(-1,)"/>
+		<setting id="epg4" type="text"  label="EPG Adresse 4" default="http://ricxepg.nl/epg_data/rytecDE_SportMovies.gz" visible="!eq(-1,)"/>
+		<setting id="epg5" type="text"  label="EPG Adresse 5" default="http://195.154.221.171/epg/guidegermany.xml" visible="!eq(-1,)"/>
+		<setting id="epg6" type="text"  label="EPG Adresse 6" default="https://kkzbigserver.iptv.uno/epg_temp_dl/output-epgs/austria.xml.gz"/>
+		<setting id="epg7" type="text"  label="EPG Adresse 7" default="https://my.iptv.community/epg_temp_dl/output-epgs/germany.xml.gz" visible="!eq(-1,)"/>
+		<setting id="epg8" type="text"  label="EPG Adresse 8" default="" visible="!eq(-1,)"/>
+	</category>
+	<category label="ROUTER">
+		<setting label="ROUTER EINSTELLUNGEN" type="lsep"/>
+		<setting id="routerip" type="ipaddress" label="IP-ADRESSE" default="192.168.8.1"/>
+		<setting id="user" type="text" label="USER" default="admin" subsetting="true" visible="!eq(-1,)"/>
+		<setting id="passw" type="text" label="PASSWORT" default="FAED91F7" subsetting="true" visible="!eq(-1,)"/>
+	</category>-->
+</settings>
