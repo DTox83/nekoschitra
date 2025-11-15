@@ -1,0 +1,3 @@
+# Temporäre Dateien ignorieren
+*.log
+*.temp
